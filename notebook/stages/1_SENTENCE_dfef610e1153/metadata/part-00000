@@ -1,0 +1,1 @@
+{"class":"com.johnsnowlabs.nlp.annotators.sbd.pragmatic.SentenceDetector","timestamp":1556661821285,"sparkVersion":"2.4.0","uid":"SENTENCE_dfef610e1153","paramMap":{"outputCol":"sentence","inputCols":["document"]},"defaultParamMap":{"customBounds":[],"explodeSentences":false,"useAbbreviations":true,"useCustomBoundsOnly":false}}

@@ -1,0 +1,1 @@
+{"class":"com.johnsnowlabs.nlp.annotators.Tokenizer","timestamp":1556661821322,"sparkVersion":"2.4.0","uid":"REGEX_TOKENIZER_3195212c0182","paramMap":{"outputCol":"token","inputCols":["sentence"]},"defaultParamMap":{"targetPattern":"\\S+","infixPatterns":[],"includeDefaults":true}}
